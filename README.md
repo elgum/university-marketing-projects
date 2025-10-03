@@ -2,7 +2,7 @@
 Мои проекты, созданные во время обучения в университете на специальности "Электронный маркетинг".
 
 ### Сайт-визитка "BIMtechno"
-**Ссылка:** https://bimtechno.tilda.ws/
+**Ссылка:** <a href="https://bimtechno.tilda.ws/" target="_blank">https://bimtechno.tilda.ws/</a>
 
 **Описание:** Сайт для строительной компании, разработанный на Tilda Publishing.
 
